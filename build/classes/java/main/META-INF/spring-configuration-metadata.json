@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "storage",
+      "type": "ru.mkonovalov.jurdoc.core.configuration.StorageConfig",
+      "sourceType": "ru.mkonovalov.jurdoc.core.configuration.StorageConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "storage.location",
+      "type": "java.lang.String",
+      "sourceType": "ru.mkonovalov.jurdoc.core.configuration.StorageConfig"
+    }
+  ],
+  "hints": []
+}
